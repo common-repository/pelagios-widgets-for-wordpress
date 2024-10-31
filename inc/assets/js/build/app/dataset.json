@@ -1,0 +1,139 @@
+[{
+  "id": "b47df24737cd647789c7d61ede9fed09",
+  "iconFileName": "arachne.png",
+  "title": "Arachne",
+  "strapline": "A web research tool of the German Archaeological Institute for searching mass archaeological records"
+},
+{
+  "id": "6a39d0bc3c0fd4ef7d2a837b42cf46a1",
+  "title": "Google Ancient Places",
+  "iconFileName": "gap_logo.png",
+  "strapline":  "A Geographic Annotation Platform for reading texts spatially"
+}
+,
+{
+  "id": "2db51c1dd976f01bf993a02f959e18f8",
+  "title": "nomisma",
+  "iconFileName": "Greek.jpeg",
+  "strapline":  "Representing ancient coins online"
+}
+,
+{
+  "id": "298fafd65586643149e8a8ba47b57052",
+  "title": "SPQR",
+  "iconFileName": "SPQR.png",
+  "strapline":  "From Roman inscriptions to resource descriptions"
+}
+,
+{
+  "id": "",
+  "title": "Regnum Francorum Online",
+  "iconFileName": "Regnum.png",
+  "strapline":  "Interactive Maps and Sources of Late Antique and Early Medieval Europe"
+}
+,
+{
+  "id": "21e48d8ca46f666467b81a551fbb1cb",
+  "title": "Perseus",
+  "iconFileName": "Perseus.png",
+  "strapline":  "Annotated occurrences of place entities in texts from the Perseus Digital Library"
+}
+,
+{
+  "id": "c4c2ed780a8f4f2b698a5c2505ac34ca",
+  "title": "CLAROS",
+  "iconFileName": "CLAROS.png",
+  "strapline":  "Aggregated search of art and archaeology data from the classical world and the far east across four millennia"
+}
+,
+{
+  "id": "739128af1e9613de03706a57cef46976",
+  "title": "Open Context",
+  "iconFileName": "open-context.png",
+  "strapline":  "Publications of research data in archaeology and related fields"
+}
+,
+{
+  "id": "467b9097b55b6e0831fe6760df93e7f2",
+  "title": "FASTI Online",
+  "iconFileName": "FASTI.png",
+  "strapline":  "A database of archaeological excavations since the year 2000"
+}
+,
+{
+  "id": "a306666ae581e8d611d56a1dfdaea256",
+  "title": "Ure Museum",
+  "iconFileName": "URE.png",
+  "strapline":  "University Museum of ancient Greek, Egyptian & a little Roman stuff"
+}
+,
+{
+  "id": "5555ffd0e36e088c25f76b980139851a",
+  "title": "ORBIS",
+  "iconFileName": "pelagios.png",
+  "strapline":  "The Stanford Geospatial Network Model of the Roman World"
+}
+,
+{
+"id": "4f9bb4e7c0b0c329db0d2696814ffd2d",
+  "title": "SquinchPix",
+  "iconFileName": "pelagios.png",
+  "strapline":  "An archive of European imagery"
+}
+,
+{
+  "id": "77b38b7fc7d81fb278d1c3634638f8ee",
+  "title": "Sharing Ancient Wisdoms (SAWS)",
+  "iconFileName": "saws.jpg",
+  "strapline": "Medieval gnomologia (collections of wise sayings)"
+}
+,
+{
+  "id": "434fc5aea15f6d39040c1282c4a2df63",
+  "title": "Portable Antiquities Scheme",
+  "iconFileName": "pelagios.png",
+  "strapline":  "Pleiades URIs appearing within the Portable Antiquities Scheme database"
+}
+,
+{
+  "id": "9fdb2911bcfc625c87cfce10d97b3de7",
+  "title": "ORACC",
+  "iconFileName": "pelagios.png",
+  "strapline":  "Open Richly Annotated Cuneiform Corpus"
+}
+,
+{
+  "id": "7bb4b28758a3607f9b1eea3b48df90a",
+  "title": "Meketre",
+  "iconFileName": "pelagios.png",
+  "strapline":  "Reliefs and paintings of Middle Kingdom tombs of Ancient Egypt"
+}
+,
+{
+  "id": "71fd46410b14843985db023501f2f76f",
+  "title": "The Book of the Dead Project",
+  "iconFileName": "pelagios.png",
+  "strapline":  "The evolution of the ancient egyptian Book of the Dead"
+}
+,
+{
+  "id": "e2e0b0b2199b875ff3acdce3f962c128",
+  "title": "ISAW Papers",
+  "iconFileName": "pelagios.png",
+  "strapline":  "Pleiades URIs appearing in ISAW Papers articles"
+}
+,
+{
+  "id": "e9e161a08db2906d135d7abefb145636",
+  "title": "OCRE",
+  "iconFileName": "pelagios.png",
+  "strapline":  "Online Coins of the Roman Empire"
+}
+]
+
+
+
+
+
+
+
